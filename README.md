@@ -12,9 +12,10 @@ The more you write and the more you are recognized.
 
 It was build on languages such as HTML, CSS, JAVASCRIPT, PHP, SQL
 
-Accessing
+# Accessing
 To acess this you need to have similar names in the local database with respect to names in the image files when you entering a input.
 # Requirements.
 * localhost/phpmyadmin.
 * Editor.
+
 
